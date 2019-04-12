@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 
-const games = require('../games/gamesModel');
+const games = require('../games/gamesModell');
 
 const server = express();
 
